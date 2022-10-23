@@ -1,0 +1,8 @@
+app:
+  host: 'http://localhost:8080'
+
+# customize your redis config
+spring:
+  redis:
+    host: localhost
+    port: 6379
