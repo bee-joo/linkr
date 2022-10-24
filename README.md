@@ -4,7 +4,7 @@ Little reactive service to make URLs tiny
 ## Features
 - URL shortener
 - Redirection
-- URL validation -> URL storing
+- URL validation -> URL storing  
 Didn't use Spring Data repositories because this app needs only two operations - put key-value and get by key. Spring repos are too complex for this use.
 
 ## Stack
